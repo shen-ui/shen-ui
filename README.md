@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Virtual Reality related projects. Hmu fr.
 - 📫 How to reach me ... peterhuiwang1995@gmail.com | Shen#3005 | @shen-ui
 
-<!---
+
 What I'm doing currently:
 Currently working on upgrading my personal website as well as other misc. stuff. 
 Honestly just having a chill time and enjoying learning new languages (positive reinforcement!) 
@@ -15,4 +15,4 @@ and I don't want to be a data engineer/analyst so I'm going to push myself towar
 I want to travel. 
 
 Add me on Discord if you want to get to me ASAP!
---->
+
