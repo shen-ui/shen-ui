@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shen-ui
 - 👀 I’m interested in ... Everything! I have tons of hobbies from running to stonks
-- 🌱 I’m currently learning ... typescript, AWS Services, SpringBoot
-- 💞️ I’m looking to collaborate on ... Virtual Reality related projects. Hmu fr.
-- 📫 How to reach me ... peterhuiwang1995@gmail.com | Shen#3005 | @shen-ui
+- 🌱 I’m currently learning ... typescript, SpringBoot
+- 💞️ I’m looking to collaborate on ... Anything where I can learn something new (within programming ofc.)
+- 📫 How to reach me ... peterhuiwang1995@gmail.com | BasedShen#1337 | @shen-ui
 
 
 What I'm doing currently:
