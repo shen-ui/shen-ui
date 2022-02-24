@@ -6,8 +6,7 @@
 
 
 What I'm doing currently:
-Currently working on implementing typescript with React. 
-Upgrading my personal website. 
+EMPLOYMENT!
 Honestly just having a chill time and enjoying learning new languages (positive reinforcement!) 
 
 Add me on Discord if you want to get to me ASAP!
