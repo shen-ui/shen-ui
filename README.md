@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Everything! I have tons of hobbies from running to building robots (i.g. drones, 3D printers, keyboards and logic boards for EE)
 - 🌱 I’m currently learning ... C (only the ++ part) purely to refamilarize myself with low-level programming.
 - 💞️ I’m looking to collaborate on ... Anything hardware related. Trying to cross into developement on devices.
-- 📫 How to reach me ... peterhuiwang1995@gmail.com | @shen-ui
+- 📫 How to reach me ... shenuidev@gmail.com | @shen-ui
 
 
 What I'm doing currently:
